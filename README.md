@@ -39,8 +39,6 @@
 ## DEPLOYMENT
 The WanderLust project has been deployed using Render, connected with MongoDB Atlas for database management.
 
----
-
 ## TECHNOLOGIES & PACKAGES USED
 - MongoDB
 - Express.js
