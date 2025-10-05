@@ -1,7 +1,7 @@
 # WANDERLUST PROJECT
 
 ## PROJECT SUMMARY
-- Designed to facilitate the browsing and booking of vacation accommodations, including houses, villas, and farmhouses.
+- Designed to facilitate browsing and booking of vacation accommodations, including houses, villas, and farmhouses.
 - Allows users to add their own properties to the listing, providing a diverse range of options for potential renters.
 - Include seamless booking system that simplifies reservation process and real-time property location views via Mapbox API.
 - Enhanced user experience and security, supporting fast login options through Google OAuth and GitHub OAuth.
