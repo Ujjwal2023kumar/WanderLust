@@ -13,15 +13,12 @@
 - User-friendly Interface: For searching and listing properties
 - Mapbox API Integration: For location-based search and property mapping
     
-## BACKEND
+## BACKEND & DATABASE
 ### FEATURES
 - RESTful API: Handles user interactions
 - User Authentication and Authorization: Using Passport.js and JWT (JSON Web Tokens)
 - Endpoints: For property listing, login/sign up, and user management
 - Seamless Booking System: Simplifies the reservation process
-
-## DATABASE
-### FEATURES
 - Structured Database Schema: For efficient data management
 - Database Queries: To retrieve and store property and user information
 
@@ -40,9 +37,7 @@
 The WanderLust project has been deployed using Render, connected with MongoDB Atlas for database management.
 
 ## TECHNOLOGIES & PACKAGES USED
-- MongoDB
-- Express.js
-- Node.js
+- MongoDB, Express.js, Node.js
 - Passport.js for Authentication
 - Cloudinary for Image Storage
 - Connect Flash for Flash Messages
