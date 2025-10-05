@@ -25,26 +25,23 @@
 - Structured Database Schema: For efficient data management
 - Database Queries: To retrieve and store property and user information
 
-#### Additional Features 🌟
-- 🔍 **Search and Filter**: Advanced system for property listings
-- ⭐ **User Reviews and Ratings**: Feature for users to review and rate properties
-- 🔐 **Security**: Ensured through encryption and data validation
-- 🗺️ **Map Integration**: For location-based features
-- 📊 **Client/Server-side Validations**: Thorough validations to ensure smooth operation
-- 🎨 **EJS Templates**: For modular routing and dynamic views
-- 🍪 **Cookies and Sessions**: For user-friendly authentication and notifications
-- 🏗️ **MVC Architecture**: For scalable and organized code
-- 💾 **Multer**: For handling file uploads
+## ADDITIONAL FEATURES
+- Search and Filter: Advanced system for property listings
+- User Reviews and Ratings: Feature for users to review and rate properties
+- Security: Ensured through encryption and data validation
+- Map Integration: For location-based features
+- Client/Server-side Validations: Thorough validations to ensure smooth operation
+- EJS Templates: For modular routing and dynamic views
+- Cookies and Sessions: For user-friendly authentication and notifications
+- MVC Architecture: For scalable and organized code
+- Multer: For handling file uploads
 
-#### Deployment 🚀
+## DEPLOYMENT
 The WanderLust project has been deployed using Render, connected with MongoDB Atlas for database management.
-
-
-This WanderLust project showcases my proficiency in full-stack web development, from creating an engaging front-end to managing the back-end and database components. It allows users to search for properties and experience the key functionalities of a vacation rental platform in a seamless and secure manner.
 
 ---
 
-🛠️ **Technologies & Packages Used:**
+## TECHNOLOGIES & PACKAGES USED
 - MongoDB
 - Express.js
 - Node.js
