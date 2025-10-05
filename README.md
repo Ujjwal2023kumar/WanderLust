@@ -7,15 +7,13 @@
 - To enhance user experience and security, the application supports fast login options through Google OAuth and GitHub OAuth.
 - The application also boasts a dynamic server for responsive performance and an intuitive, aesthetically pleasing user interface, ensuring an engaging and efficient user experience.
 
-#### Front-end 🌐
-- **Technologies Used**: HTML, CSS, JavaScript, Bootstrap, EJS
-- **Frameworks**: React.js
-- **Features**:
-  - 📱 **Responsive Design**: Optimized for various devices
-  - 🔍 **User-friendly Interface**: For searching and listing properties
-  - 🗺️ **Mapbox API Integration**: For location-based search and property mapping
+## FRONTEND
+### FEATURES
+- Responsive Design: Optimized for various devices
+- User-friendly Interface: For searching and listing properties
+- Mapbox API Integration: For location-based search and property mapping
     
-#### Back-end 🛠️
+## BACKEND
 - **Technologies Used**: Node.js, Express.js
 - **Features**:
   - 🧩 **RESTful API**: Handles user interactions
