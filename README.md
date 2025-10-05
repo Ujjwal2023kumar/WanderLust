@@ -14,21 +14,16 @@
 - Mapbox API Integration: For location-based search and property mapping
     
 ## BACKEND
-- **Technologies Used**: Node.js, Express.js
-- **Features**:
-  - 🧩 **RESTful API**: Handles user interactions
-  - 🔒 **User Authentication and Authorization**: Using Passport.js and JWT (JSON Web Tokens)
-  - 📄 **Endpoints**: For property listing, login/sign up, and user management
-  - 🏷️ **Seamless Booking System**: Simplifies the reservation process
+### FEATURES
+- RESTful API: Handles user interactions
+- User Authentication and Authorization: Using Passport.js and JWT (JSON Web Tokens)
+- Endpoints: For property listing, login/sign up, and user management
+- Seamless Booking System: Simplifies the reservation process
 
-#### Database 🗄️
-- **Database Management System**: MongoDB Atlas
-- **Features**:
-  - 🗂️ **Structured Database Schema**: For efficient data management
-  - 🔍 **Database Queries**: To retrieve and store property and user information
-
-#### Cloudinary Image Storage ☁️
-- **Image Hosting**: All listing images are securely stored on Cloudinary, providing reliable and efficient image hosting. This ensures that images are easily accessible, optimized for performance, and enhance the overall user experience.
+## DATABASE
+### FEATURES
+- Structured Database Schema: For efficient data management
+- Database Queries: To retrieve and store property and user information
 
 #### Additional Features 🌟
 - 🔍 **Search and Filter**: Advanced system for property listings
